@@ -31,3 +31,8 @@ This project is designed to simulate a real-time customer support system where u
 ---
 
 ## 📂 Project Structure
+customer-support-ticket-app/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
